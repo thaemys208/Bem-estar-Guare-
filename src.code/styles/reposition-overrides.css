@@ -1,0 +1,23 @@
+/* Auto-generated reposition overrides — do not edit manually */
+
+img[src$="/airo-assets/images/logo/horizontal?_v=1790882961856&_t=1790882990361"] {
+  object-fit: contain !important;
+  object-position: 50% 50% !important;
+  transform: scale(2.200000000000001) !important;
+  transform-origin: 50% 50% !important;
+}
+
+:has(> img[src$="/airo-assets/images/logo/horizontal?_v=1790882961856&_t=1790882990361"]) {
+  overflow: hidden;
+}
+
+img[src$="/airo-assets/images/logo/horizontal?_v=1790882961856"] {
+  object-fit: contain !important;
+  object-position: 10% 50% !important;
+  transform: scale(2.0999999999999996) !important;
+  transform-origin: 10% 50% !important;
+}
+
+:has(> img[src$="/airo-assets/images/logo/horizontal?_v=1790882961856"]) {
+  overflow: hidden;
+}
