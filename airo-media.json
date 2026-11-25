@@ -1,0 +1,45 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-ee5ca1ae.png",
+    "searchQuery": "logo/horizontal",
+    "alternatives": [
+      "/airo-assets/uploads/logo-horizontal-f4139e59.jpg",
+      "/airo-assets/uploads/logo-horizontal-f278d461.png",
+      "/airo-assets/uploads/logo-horizontal-0f5efd21.jpg",
+      "/airo-assets/uploads/logo-horizontal-31cad1e7.jpg",
+      "/airo-assets/uploads/logo-horizontal-76189b4e.png",
+      "/airo-assets/uploads/logo-horizontal-e11bb4dc.jpg",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/53a70143-fb21-415d-b793-c5531112be6c/session/994d984d-3c20-4d0b-ab66-6c7d6809b4c1/horizontal-transparent-f18cc63a-8372-4850-81b6-292fc993db49/logo-saude-familia.png",
+      "/airo-assets/uploads/airo-logo-shimmer-horizontal.svg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-06-24T15:09:41.110Z",
+    "lastUpdated": "2026-11-03T20:02:44.544Z",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-76189b4e.png": "d5la7g9s9b_1782318688853_file_7nlyn6sBGE.png",
+      "/airo-assets/uploads/logo-horizontal-f4139e59.jpg": "d5la7g9s9b_1782319371027_file_ZUWxy69vM2.jpg",
+      "/airo-assets/uploads/logo-horizontal-e11bb4dc.jpg": "d5la7g9s9b_1782319371027_file_ZUWxy69vM2.jpg",
+      "/airo-assets/uploads/logo-horizontal-31cad1e7.jpg": "d5la7g9s9b_1782319969641_file_aeIlNmXmnz.jpg",
+      "/airo-assets/uploads/logo-horizontal-0f5efd21.jpg": "d5la7g9s9b_1782319969641_file_aeIlNmXmnz.jpg",
+      "/airo-assets/uploads/logo-horizontal-f278d461.png": "d5la7g9s9b_1782470677973_file_SvKizDAgzH.png",
+      "/airo-assets/uploads/logo-horizontal-ee5ca1ae.png": "d5la7g9s9b_1790882924058_file_UJhftljaqg.png"
+    },
+    "uploadContentHash": "2ff00f9214a0fcac02209691c5ba6d923bcdfdc0765ccbc570a2a6a406bfc254",
+    "naturalOrientation": "square",
+    "caption": "logo/horizontal"
+  },
+  "logo/primary": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-f4139e59.jpg",
+    "searchQuery": "",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-06-24T16:42:51.033Z",
+    "lastUpdated": "2026-06-24T16:42:51.033Z",
+    "naturalOrientation": "square",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-f4139e59.jpg": "d5la7g9s9b_1782319371027_file_ZUWxy69vM2.jpg"
+    }
+  }
+}
